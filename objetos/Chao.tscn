@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 756.717, 28.0086 )
+
+[node name="Chao" type="Node2D"]
+
+[node name="chao" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="chao"]
+shape = SubResource( 1 )
