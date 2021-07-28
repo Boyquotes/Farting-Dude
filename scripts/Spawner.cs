@@ -27,7 +27,6 @@ public class Spawner : Node2D
     {
         if(GetTree().Root.GetChild<main>(0).progresso == 3)
         {
-            
             TrocarPosicao();
         }
     }
@@ -41,10 +40,4 @@ public class Spawner : Node2D
         a.Position = pos;
     }
 
-
-//  // Called every frame. 'delta' is the elapsed time since the previous frame.
-//  public override void _Process(float delta)
-//  {
-//      
-//  }
 }

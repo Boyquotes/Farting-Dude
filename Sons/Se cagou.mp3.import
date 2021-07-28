@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Se cagou.mp3-19d8fc820b731d24358d7e38734e1543.mp3str"
+
+[deps]
+
+source_file="res://Sons/Se cagou.mp3"
+dest_files=[ "res://.import/Se cagou.mp3-19d8fc820b731d24358d7e38734e1543.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

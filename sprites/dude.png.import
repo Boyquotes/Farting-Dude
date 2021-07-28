@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/riju.png-d9afe5296fa5fabba2837163ce5141f3.stex"
+path="res://.import/dude.png-c4cc0966f7e77940b488099d20883bce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://riju.png"
-dest_files=[ "res://.import/riju.png-d9afe5296fa5fabba2837163ce5141f3.stex" ]
+source_file="res://sprites/dude.png"
+dest_files=[ "res://.import/dude.png-c4cc0966f7e77940b488099d20883bce.stex" ]
 
 [params]
 

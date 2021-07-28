@@ -2,9 +2,9 @@
 
 [ext_resource path="res://objetos/Jogador.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Fonts/Fonte.tres" type="DynamicFont" id=2]
-[ext_resource path="res://Canvas.tscn" type="PackedScene" id=3]
-[ext_resource path="res://Inicio.cs" type="Script" id=4]
-[ext_resource path="res://Spawner.cs" type="Script" id=5]
+[ext_resource path="res://objetos/Canvas.tscn" type="PackedScene" id=3]
+[ext_resource path="res://scripts/Inicio.cs" type="Script" id=4]
+[ext_resource path="res://scripts/Spawner.cs" type="Script" id=5]
 
 [node name="Fase" type="Node2D"]
 

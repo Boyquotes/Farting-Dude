@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public class Score : Label
+public class Inicio : CanvasLayer
 {
     public override void _Ready()
     {
@@ -9,7 +9,10 @@ public class Score : Label
     }
     public override void _Process(float delta)
     {
-        Text = GetTree().Root.GetChild<main>(0).scoreAtual.ToString();
+        if(Input.IsActionJustPressed("Clique"))
+        {
+            QueueFree();
+        }
     }
 
 }
